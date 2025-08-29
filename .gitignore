@@ -1,0 +1,41 @@
+# Node modules (if you use Node.js for tooling)
+node_modules/
+
+# Dependency directories
+bower_components/
+
+# Build output
+dist/
+build/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code settings
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+
+# Coverage reports
+coverage/
+
+# Misc
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Ignore OS generated files
+*.bak
+
+# Ignore package-lock if not needed
+package-
